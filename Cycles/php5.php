@@ -1,0 +1,8 @@
+<?php
+
+$i = 1;
+
+while ($i <= 3) {
+    echo "Число: $i" . PHP_EOL;
+    $i++;
+}
